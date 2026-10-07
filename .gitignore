@@ -1,0 +1,20 @@
+node_modules/
+dist/
+__pycache__/
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+.env
+*.log
+backend/mail-config.json
+test-results/
+playwright-report/
+.venv/
+
+# Generated visual and test artifacts
+artifacts/
+.trade-planner-qa.png
+design-qa.md
+.workspace-keys.mjs
+.workspace-localize.mjs
+desktop.ini
